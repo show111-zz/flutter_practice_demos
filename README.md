@@ -1,6 +1,6 @@
-# flutter_bloc_demos
+# flutter_practice_demos
 
-A new Flutter application using Bloc pattern.
+A new Flutter application practice using advanced widget and Bloc pattern.
 
 ## Getting Started
 
